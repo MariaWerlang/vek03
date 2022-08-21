@@ -28,7 +28,7 @@
 
 <hr>
 
-<br>
+
 
 <h3>Languages</h3>
 
@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </a>
 
-<br>
+<hr>
 
 <h3>Prefers</h3>
 
@@ -80,7 +80,7 @@
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </a>
 
-<br>
+<hr>
 
 <h3>Games</h3>
 
@@ -96,7 +96,7 @@
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </a>
 
-<br>
+<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vek03&layout=compact)](https://github.com/vek03/github-readme-stats)
 
