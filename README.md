@@ -99,7 +99,7 @@
 <hr>
 
 <a href="#ghost_rider" alt="Ghost Rider" target="_blank">
-  <img src="https://gfycat.com/gifs/search/motoqueiro+fantasma">
+  <img src="https://thumbs.gfycat.com/KnobbyCommonBanteng-max-1mb.gif">
 </a>
 
 <hr>
