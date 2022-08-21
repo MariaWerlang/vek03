@@ -94,8 +94,9 @@
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vek03&layout=compact)](https://github.com/vek03/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Snake animation](https://github.com/vek03/vek03/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
