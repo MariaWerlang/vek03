@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! I'm Victor
+
+<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
 
 <!--
 **vek03/vek03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
