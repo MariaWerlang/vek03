@@ -105,7 +105,7 @@
 <div aling="center">
   <a href="#statistics">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vek03&layout=compact&show_icons=true&theme=Gradiente"/>  
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vek0313&layout=compact"/> 
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vek03&layout=compact"/> 
   </a>
 </div>
 
