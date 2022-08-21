@@ -98,7 +98,7 @@
 
 <hr>
 
-<a align="center" href="#ghost_rider" alt="Ghost Rider" target="_blank">
+<a style="margin-left: 25%;" href="#ghost_rider" alt="Ghost Rider" target="_blank">
   <img src="https://i.pinimg.com/originals/1a/0a/e6/1a0ae6fbda501e7892462440f4236633.gif">
 </a>
 
