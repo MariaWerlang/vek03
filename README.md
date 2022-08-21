@@ -1,6 +1,10 @@
 <h1>Victor Cardoso(Vek)</h1>
 
-<hr>
+<a style="margin-left: 25%;" href="#ghost_rider" alt="Ghost Rider" target="_blank">
+  <img src="https://i.pinimg.com/originals/1a/0a/e6/1a0ae6fbda501e7892462440f4236633.gif">
+</a>
+
+##
 
 <h3>Contact</h3>
 
@@ -98,12 +102,9 @@
 
 ##
 
-<a style="margin-left: 25%;" href="#ghost_rider" alt="Ghost Rider" target="_blank">
-  <img src="https://i.pinimg.com/originals/1a/0a/e6/1a0ae6fbda501e7892462440f4236633.gif">
-</a>
 
-##
 
+<!-- Estatisticas -->
 <div aling="center">
   <a href="#statistics">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vek03&layout=compact&show_icons=true&theme=Gradiente"/>  
@@ -111,6 +112,7 @@
   </a>
 </div>
 
+<!-- Snake Game -->
   ![Snake animation](https://github.com/vek03/vek03/blob/output/github-contribution-grid-snake.svg)
 
 <!--
