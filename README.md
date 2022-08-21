@@ -1,4 +1,4 @@
-<h1>Hello! I'm Victor</h1>
+<h1>Victor Cardoso(Vek)</h1>
 
 <h3>Contact</h3>
 
@@ -25,6 +25,8 @@
 <a href="https://github.com/vek03/" alt="Github" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/vek03/">
 </a>
+
+<hr>
 
 <br>
 
@@ -93,6 +95,8 @@
 <a href="#steam" alt="Steam" target="_blank">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </a>
+
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vek03&layout=compact)](https://github.com/vek03/github-readme-stats)
 
