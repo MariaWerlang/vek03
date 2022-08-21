@@ -1,6 +1,6 @@
 <h1>Hello! I'm Victor</h1>
 
-<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
+<h3>Contact</h3>
 
 <a href="https://www.instagram.com/03__vek/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/03__vek">
@@ -22,6 +22,9 @@
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
+<a href="https://github.com/vek03/" alt="Github" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/vek03/">
+</a>
 
 
 
