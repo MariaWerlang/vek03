@@ -102,7 +102,14 @@
   <img src="https://i.pinimg.com/originals/1a/0a/e6/1a0ae6fbda501e7892462440f4236633.gif">
 </a>
 
+<div aling="center">
+  <a href="#statistics">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vek03&layout=compact&show_icons=true&theme=Gradiente"/>  
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vek0313&layout=compact"/> 
+  </a>
+</div>
 
+  ![Snake animation](https://github.com/vek03/vek03/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **vek03/vek03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
