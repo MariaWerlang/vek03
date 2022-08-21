@@ -96,7 +96,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vek03&layout=compact)](https://github.com/vek03/github-readme-stats)
 
-![Snake animation](https://github.com/vek03/vek03/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
