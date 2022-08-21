@@ -62,6 +62,38 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </a>
 
+<br>
+
+<h3>Prefers</h3>
+
+<a href="#windows" alt="Windows" target="_blank">
+  <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
+</a>
+
+<a href="#apache" alt="Apache" target="_blank">
+  <img src="https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white">
+</a>
+
+<a href="#microsoftoffice" alt="Microsoft Office" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+</a>
+
+<br>
+
+<h3>Games</h3>
+
+<a href="#playstation" alt="Playstation" target="_blank">
+  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
+</a>
+
+<a href="#xbox" alt="Xbox" target="_blank">
+  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
+</a>
+
+<a href="#steam" alt="Steam" target="_blank">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+</a>
+
 <!--
 **vek03/vek03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
