@@ -102,10 +102,6 @@
   <img src="https://i.pinimg.com/originals/1a/0a/e6/1a0ae6fbda501e7892462440f4236633.gif">
 </a>
 
-<hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vek03&layout=compact)](https://github.com/vek03/github-readme-stats)
-
-
 
 
 <!--
