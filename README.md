@@ -98,6 +98,11 @@
 
 <hr>
 
+<a href="#ghost_rider" alt="Ghost Rider" target="_blank">
+  <img src="https://gfycat.com/gifs/search/motoqueiro+fantasma">
+</a>
+
+<hr>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vek03&layout=compact)](https://github.com/vek03/github-readme-stats)
 
 
