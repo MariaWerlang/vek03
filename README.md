@@ -99,7 +99,7 @@
 <hr>
 
 <a href="#ghost_rider" alt="Ghost Rider" target="_blank">
-  <img src="https://thumbs.gfycat.com/KnobbyCommonBanteng-max-1mb.gif">
+  <img src="https://i.pinimg.com/originals/1a/0a/e6/1a0ae6fbda501e7892462440f4236633.gif">
 </a>
 
 <hr>
