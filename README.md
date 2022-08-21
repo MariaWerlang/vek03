@@ -105,7 +105,9 @@
 
 
 <!-- Estatisticas -->
-<div aling="center">
+
+<h3>Statistics</h3>
+<div align="center">
   <a href="#statistics">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vek03&layout=compact&show_icons=true&theme=Gradiente"/>  
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vek03&layout=compact"/> 
