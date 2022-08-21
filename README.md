@@ -102,6 +102,8 @@
   <img src="https://i.pinimg.com/originals/1a/0a/e6/1a0ae6fbda501e7892462440f4236633.gif">
 </a>
 
+##
+
 <div aling="center">
   <a href="#statistics">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vek03&layout=compact&show_icons=true&theme=Gradiente"/>  
