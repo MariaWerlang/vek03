@@ -1,5 +1,7 @@
 <h1>Victor Cardoso(Vek)</h1>
 
+<hr>
+
 <h3>Contact</h3>
 
 <a href="https://www.instagram.com/03__vek/" alt="Instagram" target="_blank">
@@ -27,8 +29,6 @@
 </a>
 
 ##
-
-
 
 <h3>Languages</h3>
 
@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </a>
 
-<hr>
+##
 
 <h3>Prefers</h3>
 
@@ -80,7 +80,7 @@
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </a>
 
-<hr>
+##
 
 <h3>Games</h3>
 
@@ -96,7 +96,7 @@
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </a>
 
-<hr>
+##
 
 <a style="margin-left: 25%;" href="#ghost_rider" alt="Ghost Rider" target="_blank">
   <img src="https://i.pinimg.com/originals/1a/0a/e6/1a0ae6fbda501e7892462440f4236633.gif">
